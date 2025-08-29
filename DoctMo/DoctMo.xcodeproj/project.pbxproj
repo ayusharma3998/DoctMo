@@ -1,0 +1,7 @@
+// !$*UTF8*$!
+{
+    archiveVersion = 1;
+    objectVersion = 50;
+    classes = {};
+    rootObject = MAIN_PROJECT;
+}
